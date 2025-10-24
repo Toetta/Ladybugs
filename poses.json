@@ -1,0 +1,7 @@
+{
+  "rigs": [
+    {"name": "Front", "yaw": 0.0, "pitch": 18.0, "roll": 0.0},
+    {"name": "Rear",  "yaw": 216.0, "pitch": 18.0, "roll": 0.0}
+  ],
+  "note": "Azimuth 0° = vehicle forward; +azimuth to the vehicle’s left."
+}

@@ -1,0 +1,2 @@
+py -m pip install numpy pillow matplotlib
+py run_from_images.py --poses_json poses.json --images_csv images.csv --out out_report --step 3 --band_lo -20 --band_hi 75
